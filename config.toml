@@ -21,13 +21,10 @@ publishDir = "public"
 
 [params.index]
 #   picture = "/images/3.jpg"
-  title = "John Doe"
-  subtitle = "I'm a unique placeholder. Working here and there!"
-  mdtext = '''
-Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading
-'''
+  title = "Waras dengan Membaca"
+  subtitle = "Taman Baca - Ruang Bersama - Ruang Kreatif"
+  mdtext = '''---
+  '''
   alertbar = false
 
 [params.social]
