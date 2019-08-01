@@ -1,0 +1,22 @@
+---
+label: test
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: publishdate
+  label: publishdate
+- type: file
+  name: image
+  label: image
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: comments
+  label: comments
