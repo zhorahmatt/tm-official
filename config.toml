@@ -20,10 +20,10 @@ publishDir = "public"
   description = "Creator of this blog."
 
 [params.index]
-#   picture = "/images/3.jpg"
-  title = "Waras dengan Membaca"
+  picture = "/images/open-magazine.png"
+  title = "Titik Mula"
   subtitle = "Taman Baca - Ruang Bersama - Ruang Kreatif"
-  mdtext = '''---
+  mdtext = '''Waras dengan Membaca
   '''
   alertbar = false
 
@@ -34,17 +34,17 @@ publishDir = "public"
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "Cerita"
     weight = 100
-    identifier = "blog"
-    url = "/blog"
+    identifier = "cerita"
+    url = "/cerita"
 [[menu.main]]
-    name = "About"
-    identifier = "about"
+    name = "Tentang"
+    identifier = "tentang"
     weight = 200
-    url = "/"
-[[menu.main]]
-    name = "Kontak"
-    identifier = "kontak"
-    weight = 200
-    url = "/kontak"
+    url = "/tentang"
+# [[menu.main]]
+#     name = "Kontak"
+#     identifier = "kontak"
+#     weight = 200
+#     url = "/kontak"
